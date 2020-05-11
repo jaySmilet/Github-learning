@@ -20,6 +20,22 @@ Learn git Part -2 :
 
 3) to select/switch branch => git checkout branchName
 
-after coomiting to specific branch, come to master branch and merge
+   after coomiting to specific branch, come to master branch and merge
 
 4) merge specific branch to master branch => git merge specificBranchName
+
+Learn git Part -3 :
+
+1) to track git log => git log
+
+2) to track last two git log => git log -2
+
+3) to track last n git log => git log -n
+
+4) git log --oneline
+
+5) git log -p
+
+6) git log -i --grep="Text" (for searching Text)
+
+7) git log -i --author="Ajay Suneja"
