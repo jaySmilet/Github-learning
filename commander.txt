@@ -11,3 +11,11 @@ Learn git Part -1 :
 6) git push origin master
 7) git clone repoName
 8) git pull origin master
+
+Learn git Part -2 :
+
+to show branch => git branch
+
+to create branch => git branch branchName
+
+to select/switch branch => git checkout branchName
