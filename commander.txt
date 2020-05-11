@@ -14,8 +14,12 @@ Learn git Part -1 :
 
 Learn git Part -2 :
 
-to show branch => git branch
+1) to show branch => git branch
 
-to create branch => git branch branchName
+2) to create branch => git branch branchName
 
-to select/switch branch => git checkout branchName
+3) to select/switch branch => git checkout branchName
+
+after coomiting to specific branch, come to master branch and merge
+
+4) merge specific branch to master branch => git merge specificBranchName
